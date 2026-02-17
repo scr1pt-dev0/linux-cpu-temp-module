@@ -40,5 +40,5 @@ module_init(my_init);
 module_exit(my_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Vincent");
+MODULE_AUTHOR("scr1pt");
 MODULE_DESCRIPTION("CPU Temperaturleser");
